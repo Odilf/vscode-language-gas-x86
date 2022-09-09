@@ -1,3 +1,3 @@
 # VSCode GAS/AT&T Assembly Syntax Highlighter
 
-This is a VS Code extension providing language support for x86 and x86_64 assembly language in GNU Assembler dialect (AT&T).
+Just a fork of [basdp/vscode-language-gas-x86](https://github.com/basdp/vscode-language-gas-x86), but with changed comments. 
